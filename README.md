@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Yashoo69/Yashoo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/Yashoo"><img src="https://api.daily.dev/devcards/91dca7720fed485a9abe91cefd79fd2b.png?r=kef" width="400" alt="Thomas_vidal's Dev Card"/></a>
